@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "bluezone_border.1",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                118.40164,
+                38.00623
+              ],
+              [
+                118.505596,
+                38.006238
+              ],
+              [
+                118.507391,
+                38.005247
+              ],
+              [
+                118.50792,
+                38.00419
+              ],
+              [
+                118.478078,
+                37.930139
+              ],
+              [
+                118.467553,
+                37.932934
+              ],
+              [
+                118.466086,
+                37.941594
+              ],
+              [
+                118.401823,
+                37.942672
+              ]
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "ID": 1,
+        "面积": 4.3145590664534E7,
+        "周长": 27088.558018
+      }
+    }
+  ],
+  "totalFeatures": 1,
+  "numberMatched": 1,
+  "numberReturned": 1,
+  "timeStamp": "2019-01-22T08:56:00.965Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
